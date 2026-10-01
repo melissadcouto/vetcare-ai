@@ -539,6 +539,12 @@ vetcare-ai/
 ├── index.html
 └── README.md
 
+Option 3 — Deploy using Render
+
+The VETCARE AI prototype can also be deployed as a static web application using Render. Upload the project repository containing index.html and README.md to GitHub, connect the repository to Render, and create a Static Site. Render can then build and host the prototype, providing a public URL that can be shared for demonstration and evaluation.
+
+This allows the SIH prototype to be accessed directly through a web browser without requiring users to download the project files or run the application locally.
+
 🎯 Goal
 
 VETCARE AI aims to reduce the gap between the first observation of an animal-health problem and coordinated veterinary response.
